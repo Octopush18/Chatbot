@@ -1,18 +1,10 @@
 # Define the content of the README.md file
 readme_content = """
-# Build a Chatbot for your Data
-
-# Setting Up and Understanding the User Interface
-
-# Understanding The Worker: Document Processing and Conversation Management Worker Part 1
-
-# Understanding The Worker: Document Processing and Conversation Management Worker Part 2
-
-# Understanding The Server
-
-# Running the Application
-
-## Conclusion
+Build a Chatbot for your Data
+Setting Up and Understanding the User Interface
+Understanding The Worker: Document Processing and Conversation Management Worker 
+Understanding The Server
+Running the Application
 
 **Build a Chatbot for your Data**  
 
