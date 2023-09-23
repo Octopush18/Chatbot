@@ -1,5 +1,5 @@
 # Define the content of the README.md file
-readme_content = """
+
 Build a Chatbot for your Data
 Setting Up and Understanding the User Interface
 Understanding The Worker: Document Processing and Conversation Management Worker 
@@ -46,4 +46,4 @@ We’ve provided a ready-to-use chatbot front-end, built with HTML, CSS, and Jav
 
 ### Prerequisites
 Having knowledge of the basics of HTML/CSS, Javascript, and Python are nice to have but not essential. We will do our best in explaining each step of the process as well as any code shown along the way.
-"""
+
